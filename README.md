@@ -47,7 +47,7 @@ tailwind.config.js
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/dynamic-form-builder.git
+   git clone https://github.com/harshitSingh1/dynamic-form-builder.git
    cd dynamic-form-builder
    ```
 
