@@ -46,10 +46,10 @@ tailwind.config.js
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/yourusername/dynamic-form-builder.git
    cd dynamic-form-builder
-```
+   ```
 
 ### 2. Install dependencies
 ```
